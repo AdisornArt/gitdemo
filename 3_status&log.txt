@@ -1,0 +1,3 @@
+git status  //Check Status of Working Tree
+git log     //view history and use hash id to revert the previous code
+q   //Exit git log

@@ -1,0 +1,7 @@
+git config --global --list  //Show global configuration
+
+git config --list   //Show configuration of current repository
+
+git config --global user.name "username"
+
+git config --global user.email "email"

@@ -1,0 +1,7 @@
+git push origin //origin standing for remote server
+
+git push    //Push To Remote Repository short form
+
+git pull origin //origin standing for remote server
+
+git pull    //Pull Latest from Remote Repository short form
