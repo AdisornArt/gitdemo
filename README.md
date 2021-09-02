@@ -1,30 +1,5 @@
 gitdemo
 
-git --version   //Check git version installed
-
-git init    //Initialize Local Repository
-
-git status  //Check Status of Working Tree
-
-git add "FileName"  //Add File to Repository
-
-git add .   //Add all Files to Repository
-
-git commit -m "first commit"    //Commit Change to Index
-
-git commit -a -m "second commit"    //Add all files and Commit
-
-git remote add origin URL   //Add Remote
-
-git remote -v   //Check Remote
-
-git push origin //origin standing for remote server
-
-git push    //Push To Remote Repository short form
-
-git pull origin //origin standing for remote server
-
-git pull    //Pull Latest from Remote Repository short form
 
 git clone URL   //Clone Latest from Remote Repository
 
@@ -62,6 +37,7 @@ git merge --no-ff
 git diff [hash id]
 
 git diff [branch-name]
+
 
 
 https://github.com/github/gitignore
