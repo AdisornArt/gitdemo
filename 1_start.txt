@@ -1,0 +1,3 @@
+git --version   //Check git version installed
+git init    //Initialize Local Repository
+git clone URL   //Clone Latest from Remote Repository

@@ -55,5 +55,13 @@ git checkout -b [branch-name]   //Create and Switch branch
 git branch -d [branch-name]     //Delete branch
 
 
+git merge [branch-name]
+
+git merge --no-ff
+
+git diff [hash id]
+
+git diff [branch-name]
+
 
 https://github.com/github/gitignore
