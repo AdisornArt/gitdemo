@@ -9,3 +9,5 @@ git checkout -b [branch-name]   //Create and Switch branch
 git branch -d [branch-name]     //Delete branch
 
 git push origin [branch-name]   //send branch to remote Repository
+
+git push -d origin [branch-name]    //Delete branch in remote Repository
