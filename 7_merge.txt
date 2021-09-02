@@ -1,0 +1,7 @@
+git merge [branch-name]
+
+git merge --no-ff
+
+git diff [hash id]
+
+git diff [branch-name]
